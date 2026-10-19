@@ -35,14 +35,14 @@ export default function App() {
     <main className="min-h-screen w-full bg-zinc-950 text-zinc-100 flex flex-col justify-center items-center px-6 py-12 text-center selection:bg-zinc-800">
       <div className="max-w-4xl mx-auto flex flex-col items-center">
         <h1 className="text-5xl sm:text-7xl md:text-8xl font-black tracking-tight text-white uppercase leading-[1.05]">
-          We Are Working
+          ANAND HAS CHEATED THE DEVELOPER MADE WEBSITE AT 1800 AND GIVEN 500 AND THEN NO RESPONSE 
           <span className="block mt-2 text-zinc-300">
             On It Soon
           </span>
         </h1>
 
         <p className="mt-8 text-lg sm:text-2xl text-zinc-400 font-normal max-w-2xl leading-relaxed">
-          We are currently refreshing our website and preparing new improvements. Everything will be back online shortly
+          HE IS NOW NOT RESPONDING FOR JUST 1300 WE HAVE REMOVED HIS SITE HE WASTED OUR TIME MONEY. Everything will be back online shortly
         </p>
       </div>
     </main>
