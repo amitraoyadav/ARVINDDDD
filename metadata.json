@@ -1,0 +1,6 @@
+{
+  "name": "Web Application",
+  "description": "A web project with modular routing and clean pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
